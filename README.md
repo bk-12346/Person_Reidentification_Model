@@ -578,7 +578,7 @@ Troubleshooting
 
 **Issue**: "Low matching scores"
 
--   **Solution**: Adjust thresholds in respective phase scripts
+-   **Solution**: Adjust thresholds in respective scripts
 
 * * * * *
 
@@ -614,4 +614,5 @@ Contact
 -------
 
 For questions about implementation or results, please refer to the generated reports in `output/reports/`.
+
 
