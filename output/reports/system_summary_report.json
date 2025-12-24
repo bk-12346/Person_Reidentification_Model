@@ -1,0 +1,62 @@
+{
+  "generation_time": "2025-12-24 12:45:00",
+  "system_info": {
+    "total_videos_processed": 2,
+    "video_names": [
+      "video1.mp4",
+      "video2.mp4"
+    ]
+  },
+  "per_video_stats": {
+    "video1": {
+      "detection": {
+        "total_frames": 460,
+        "unique_persons_tracked": 106,
+        "total_detections": 3637
+      },
+      "face_recognition": {
+        "persons_with_faces": 49,
+        "total_face_samples": 952
+      },
+      "appearance_reid": {
+        "persons_with_features": 106,
+        "total_appearance_samples": 3637
+      },
+      "temporal_reid": {
+        "unique_persons": 47,
+        "reentry_events": 31
+      }
+    },
+    "video2": {
+      "detection": {
+        "total_frames": 764,
+        "unique_persons_tracked": 243,
+        "total_detections": 7887
+      },
+      "face_recognition": {
+        "persons_with_faces": 80,
+        "total_face_samples": 1278
+      },
+      "appearance_reid": {
+        "persons_with_features": 349,
+        "total_appearance_samples": 11524
+      },
+      "temporal_reid": {
+        "unique_persons": 44,
+        "reentry_events": 67
+      }
+    }
+  },
+  "cross_video_analysis": {
+    "videos_compared": 2,
+    "persons_per_video": {
+      "video1": 106,
+      "video2": 243
+    },
+    "potential_matches": "See Phase 6 results for detailed matching"
+  },
+  "temporal_analysis": {
+    "total_reentry_events": 98,
+    "videos_with_reentries": 2
+  }
+}

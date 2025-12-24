@@ -1,0 +1,9004 @@
+{
+  "statistics": {
+    "total_unique_persons": 47,
+    "active_persons": 31,
+    "historical_persons": 75,
+    "detected_reentries": 31
+  },
+  "reentry_events": [
+    {
+      "frame": 168,
+      "track_id": 47,
+      "persistent_id": 10
+    },
+    {
+      "frame": 171,
+      "track_id": 48,
+      "persistent_id": 12
+    },
+    {
+      "frame": 173,
+      "track_id": 49,
+      "persistent_id": 10
+    },
+    {
+      "frame": 180,
+      "track_id": 50,
+      "persistent_id": 1
+    },
+    {
+      "frame": 186,
+      "track_id": 51,
+      "persistent_id": 2
+    },
+    {
+      "frame": 190,
+      "track_id": 52,
+      "persistent_id": 1
+    },
+    {
+      "frame": 197,
+      "track_id": 53,
+      "persistent_id": 4
+    },
+    {
+      "frame": 206,
+      "track_id": 54,
+      "persistent_id": 1
+    },
+    {
+      "frame": 207,
+      "track_id": 55,
+      "persistent_id": 14
+    },
+    {
+      "frame": 212,
+      "track_id": 56,
+      "persistent_id": 2
+    },
+    {
+      "frame": 214,
+      "track_id": 57,
+      "persistent_id": 4
+    },
+    {
+      "frame": 232,
+      "track_id": 61,
+      "persistent_id": 1
+    },
+    {
+      "frame": 234,
+      "track_id": 62,
+      "persistent_id": 6
+    },
+    {
+      "frame": 240,
+      "track_id": 65,
+      "persistent_id": 1
+    },
+    {
+      "frame": 254,
+      "track_id": 68,
+      "persistent_id": 4
+    },
+    {
+      "frame": 254,
+      "track_id": 67,
+      "persistent_id": 6
+    },
+    {
+      "frame": 256,
+      "track_id": 69,
+      "persistent_id": 4
+    },
+    {
+      "frame": 258,
+      "track_id": 70,
+      "persistent_id": 6
+    },
+    {
+      "frame": 261,
+      "track_id": 72,
+      "persistent_id": 20
+    },
+    {
+      "frame": 262,
+      "track_id": 71,
+      "persistent_id": 20
+    },
+    {
+      "frame": 264,
+      "track_id": 73,
+      "persistent_id": 13
+    },
+    {
+      "frame": 265,
+      "track_id": 74,
+      "persistent_id": 6
+    },
+    {
+      "frame": 267,
+      "track_id": 75,
+      "persistent_id": 8
+    },
+    {
+      "frame": 272,
+      "track_id": 76,
+      "persistent_id": 20
+    },
+    {
+      "frame": 273,
+      "track_id": 78,
+      "persistent_id": 22
+    },
+    {
+      "frame": 274,
+      "track_id": 77,
+      "persistent_id": 22
+    },
+    {
+      "frame": 277,
+      "track_id": 80,
+      "persistent_id": 24
+    },
+    {
+      "frame": 277,
+      "track_id": 79,
+      "persistent_id": 15
+    },
+    {
+      "frame": 278,
+      "track_id": 81,
+      "persistent_id": 6
+    },
+    {
+      "frame": 280,
+      "track_id": 83,
+      "persistent_id": 21
+    },
+    {
+      "frame": 280,
+      "track_id": 82,
+      "persistent_id": 16
+    },
+    {
+      "frame": 284,
+      "track_id": 84,
+      "persistent_id": 6
+    },
+    {
+      "frame": 285,
+      "track_id": 85,
+      "persistent_id": 5
+    },
+    {
+      "frame": 291,
+      "track_id": 86,
+      "persistent_id": 1
+    },
+    {
+      "frame": 292,
+      "track_id": 87,
+      "persistent_id": 10
+    },
+    {
+      "frame": 296,
+      "track_id": 89,
+      "persistent_id": 20
+    },
+    {
+      "frame": 321,
+      "track_id": 90,
+      "persistent_id": 31
+    },
+    {
+      "frame": 332,
+      "track_id": 91,
+      "persistent_id": 4
+    },
+    {
+      "frame": 334,
+      "track_id": 92,
+      "persistent_id": 37
+    },
+    {
+      "frame": 347,
+      "track_id": 93,
+      "persistent_id": 4
+    },
+    {
+      "frame": 372,
+      "track_id": 95,
+      "persistent_id": 42
+    },
+    {
+      "frame": 391,
+      "track_id": 97,
+      "persistent_id": 6
+    },
+    {
+      "frame": 396,
+      "track_id": 99,
+      "persistent_id": 34
+    },
+    {
+      "frame": 396,
+      "track_id": 98,
+      "persistent_id": 5
+    },
+    {
+      "frame": 398,
+      "track_id": 100,
+      "persistent_id": 25
+    },
+    {
+      "frame": 408,
+      "track_id": 102,
+      "persistent_id": 22
+    },
+    {
+      "frame": 410,
+      "track_id": 103,
+      "persistent_id": 42
+    },
+    {
+      "frame": 411,
+      "track_id": 104,
+      "persistent_id": 12
+    },
+    {
+      "frame": 411,
+      "track_id": 101,
+      "persistent_id": 6
+    },
+    {
+      "frame": 416,
+      "track_id": 105,
+      "persistent_id": 2
+    },
+    {
+      "frame": 417,
+      "track_id": 106,
+      "persistent_id": 2
+    },
+    {
+      "frame": 429,
+      "track_id": 107,
+      "persistent_id": 14
+    },
+    {
+      "frame": 434,
+      "track_id": 108,
+      "persistent_id": 5
+    },
+    {
+      "frame": 438,
+      "track_id": 109,
+      "persistent_id": 24
+    },
+    {
+      "frame": 440,
+      "track_id": 110,
+      "persistent_id": 5
+    },
+    {
+      "frame": 444,
+      "track_id": 111,
+      "persistent_id": 3
+    },
+    {
+      "frame": 447,
+      "track_id": 112,
+      "persistent_id": 12
+    },
+    {
+      "frame": 452,
+      "track_id": 113,
+      "persistent_id": 34
+    },
+    {
+      "frame": 455,
+      "track_id": 114,
+      "persistent_id": 34
+    }
+  ],
+  "frame_results": [
+    {
+      "frame": 1,
+      "reid_map": {
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 9,
+        "active_persons": 9,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 2,
+      "reid_map": {
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 9,
+        "active_persons": 9,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 3,
+      "reid_map": {
+        "10": 10,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 10,
+        "active_persons": 10,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 4,
+      "reid_map": {
+        "10": 10,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 10,
+        "active_persons": 10,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 5,
+      "reid_map": {
+        "11": 11,
+        "10": 10,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 11,
+        "active_persons": 11,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 6,
+      "reid_map": {
+        "11": 11,
+        "10": 10,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 11,
+        "active_persons": 11,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 7,
+      "reid_map": {
+        "11": 11,
+        "10": 10,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 11,
+        "active_persons": 11,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 8,
+      "reid_map": {
+        "11": 11,
+        "10": 10,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 11,
+        "active_persons": 11,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 9,
+      "reid_map": {
+        "11": 11,
+        "10": 10,
+        "8": 2,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 11,
+        "active_persons": 11,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 10,
+      "reid_map": {
+        "12": 12,
+        "11": 11,
+        "10": 10,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 11,
+      "reid_map": {
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 12,
+      "reid_map": {
+        "12": 12,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 13,
+      "reid_map": {
+        "12": 12,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 14,
+      "reid_map": {
+        "12": 12,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 15,
+      "reid_map": {
+        "12": 12,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 16,
+      "reid_map": {
+        "12": 12,
+        "11": 11,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 17,
+      "reid_map": {
+        "11": 11,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 18,
+      "reid_map": {
+        "11": 11,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 19,
+      "reid_map": {
+        "11": 11,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 20,
+      "reid_map": {
+        "11": 11,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 21,
+      "reid_map": {
+        "11": 11,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 22,
+      "reid_map": {
+        "11": 11,
+        "9": 1,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 23,
+      "reid_map": {
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 12,
+        "active_persons": 12,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 24,
+      "reid_map": {
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 13,
+        "active_persons": 13,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 25,
+      "reid_map": {
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 13,
+        "active_persons": 13,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 26,
+      "reid_map": {
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 13,
+        "active_persons": 13,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 27,
+      "reid_map": {
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 13,
+        "active_persons": 13,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 28,
+      "reid_map": {
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 13,
+        "active_persons": 13,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 29,
+      "reid_map": {
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 13,
+        "active_persons": 13,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 30,
+      "reid_map": {
+        "14": 14,
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 14,
+        "active_persons": 14,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 31,
+      "reid_map": {
+        "15": 15,
+        "14": 14,
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 32,
+      "reid_map": {
+        "15": 15,
+        "14": 14,
+        "13": 13,
+        "11": 11,
+        "8": 2,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "2": 8,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 33,
+      "reid_map": {
+        "15": 15,
+        "14": 14,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 34,
+      "reid_map": {
+        "15": 15,
+        "14": 14,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 35,
+      "reid_map": {
+        "15": 15,
+        "14": 14,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 36,
+      "reid_map": {
+        "15": 15,
+        "14": 14,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "6": 4,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 37,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 38,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 39,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 40,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 41,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 42,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 43,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 44,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 45,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 15,
+        "active_persons": 15,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 46,
+      "reid_map": {
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 16,
+        "active_persons": 16,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 47,
+      "reid_map": {
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 16,
+        "active_persons": 16,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 48,
+      "reid_map": {
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 17,
+        "active_persons": 17,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 49,
+      "reid_map": {
+        "17": 17,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 17,
+        "active_persons": 17,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 50,
+      "reid_map": {
+        "17": 17,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 17,
+        "active_persons": 17,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 51,
+      "reid_map": {
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 17,
+        "active_persons": 17,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 52,
+      "reid_map": {
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 17,
+        "active_persons": 17,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 53,
+      "reid_map": {
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 17,
+        "active_persons": 17,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 54,
+      "reid_map": {
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 17,
+        "active_persons": 17,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 55,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 56,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 57,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 58,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 59,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 60,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "13": 13,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 61,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 62,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 63,
+      "reid_map": {
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 64,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 18,
+        "active_persons": 18,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 65,
+      "reid_map": {
+        "19": 19,
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 19,
+        "active_persons": 19,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 66,
+      "reid_map": {
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 19,
+        "active_persons": 19,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 67,
+      "reid_map": {
+        "20": 20,
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 20,
+        "active_persons": 20,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 68,
+      "reid_map": {
+        "20": 20,
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 20,
+        "active_persons": 20,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 69,
+      "reid_map": {
+        "20": 20,
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 20,
+        "active_persons": 20,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 70,
+      "reid_map": {
+        "20": 20,
+        "18": 18,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "4": 6,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 20,
+        "active_persons": 20,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 71,
+      "reid_map": {
+        "20": 20,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 20,
+        "active_persons": 20,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 72,
+      "reid_map": {
+        "20": 20,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 20,
+        "active_persons": 20,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 73,
+      "reid_map": {
+        "21": 21,
+        "20": 20,
+        "17": 17,
+        "16": 16,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 21,
+        "active_persons": 21,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 74,
+      "reid_map": {
+        "21": 21,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 21,
+        "active_persons": 21,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 75,
+      "reid_map": {
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 21,
+        "active_persons": 21,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 76,
+      "reid_map": {
+        "21": 21,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 21,
+        "active_persons": 21,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 77,
+      "reid_map": {
+        "22": 22,
+        "21": 21,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 22,
+        "active_persons": 22,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 78,
+      "reid_map": {
+        "22": 22,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 22,
+        "active_persons": 22,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 79,
+      "reid_map": {
+        "21": 21,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 22,
+        "active_persons": 22,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 80,
+      "reid_map": {
+        "21": 21,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 22,
+        "active_persons": 22,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 81,
+      "reid_map": {
+        "22": 22,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 22,
+        "active_persons": 22,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 82,
+      "reid_map": {
+        "22": 22,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 22,
+        "active_persons": 22,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 83,
+      "reid_map": {
+        "23": 23,
+        "22": 22,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 23,
+        "active_persons": 23,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 84,
+      "reid_map": {
+        "23": 23,
+        "22": 22,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 23,
+        "active_persons": 23,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 85,
+      "reid_map": {
+        "23": 23,
+        "22": 22,
+        "21": 21,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 23,
+        "active_persons": 23,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 86,
+      "reid_map": {
+        "23": 23,
+        "22": 22,
+        "21": 21,
+        "20": 20,
+        "17": 17,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 23,
+        "active_persons": 23,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 87,
+      "reid_map": {
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 23,
+        "active_persons": 23,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 88,
+      "reid_map": {
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 23,
+        "active_persons": 23,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 89,
+      "reid_map": {
+        "25": 24,
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 25,
+        "active_persons": 25,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 90,
+      "reid_map": {
+        "25": 24,
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 25,
+        "active_persons": 25,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 91,
+      "reid_map": {
+        "25": 24,
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 25,
+        "active_persons": 25,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 92,
+      "reid_map": {
+        "25": 24,
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 25,
+        "active_persons": 25,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 93,
+      "reid_map": {
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "3": 7,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 25,
+        "active_persons": 25,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 94,
+      "reid_map": {
+        "26": 26,
+        "24": 25,
+        "23": 23,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 26,
+        "active_persons": 26,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 95,
+      "reid_map": {
+        "26": 26,
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 26,
+        "active_persons": 26,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 96,
+      "reid_map": {
+        "26": 26,
+        "25": 24,
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 26,
+        "active_persons": 26,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 97,
+      "reid_map": {
+        "26": 26,
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 26,
+        "active_persons": 26,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 98,
+      "reid_map": {
+        "27": 27,
+        "26": 26,
+        "24": 25,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 27,
+        "active_persons": 27,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 99,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "26": 26,
+        "25": 24,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 100,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "26": 26,
+        "25": 24,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 101,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "26": 26,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 102,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "26": 26,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 103,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "26": 26,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 104,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "5": 5,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 105,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 106,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 107,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 108,
+      "reid_map": {
+        "28": 28,
+        "27": 27,
+        "23": 23,
+        "21": 21,
+        "20": 20,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 109,
+      "reid_map": {
+        "28": 28,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 110,
+      "reid_map": {
+        "28": 28,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 28,
+        "active_persons": 28,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 111,
+      "reid_map": {
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 31,
+        "active_persons": 31,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 112,
+      "reid_map": {
+        "32": 32,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 32,
+        "active_persons": 32,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 113,
+      "reid_map": {
+        "32": 32,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 32,
+        "active_persons": 32,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 114,
+      "reid_map": {
+        "32": 32,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 32,
+        "active_persons": 32,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 115,
+      "reid_map": {
+        "32": 32,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 32,
+        "active_persons": 32,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 116,
+      "reid_map": {
+        "32": 32,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 32,
+        "active_persons": 32,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 117,
+      "reid_map": {
+        "32": 32,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "21": 21,
+        "15": 15,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 32,
+        "active_persons": 32,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 118,
+      "reid_map": {
+        "34": 33,
+        "32": 32,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "11": 11,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 33,
+        "active_persons": 33,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 119,
+      "reid_map": {
+        "34": 33,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 33,
+        "active_persons": 33,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 120,
+      "reid_map": {
+        "34": 33,
+        "33": 34,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 34,
+        "active_persons": 34,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 121,
+      "reid_map": {
+        "33": 34,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 34,
+        "active_persons": 34,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 122,
+      "reid_map": {
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 35,
+        "active_persons": 35,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 123,
+      "reid_map": {
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 35,
+        "active_persons": 35,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 124,
+      "reid_map": {
+        "35": 35,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 35,
+        "active_persons": 35,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 125,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 126,
+      "reid_map": {
+        "35": 35,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 127,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 128,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "30": 30,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 129,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 130,
+      "reid_map": {
+        "36": 36,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 131,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 132,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 133,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 134,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 135,
+      "reid_map": {
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 36,
+        "active_persons": 36,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 136,
+      "reid_map": {
+        "37": 37,
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 37,
+        "active_persons": 37,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 137,
+      "reid_map": {
+        "37": 37,
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 37,
+        "active_persons": 37,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 138,
+      "reid_map": {
+        "38": 38,
+        "37": 37,
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "23": 23,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 38,
+        "active_persons": 38,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 139,
+      "reid_map": {
+        "37": 37,
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 38,
+        "active_persons": 38,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 140,
+      "reid_map": {
+        "37": 37,
+        "36": 36,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 38,
+        "active_persons": 38,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 141,
+      "reid_map": {
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 38,
+        "active_persons": 38,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 142,
+      "reid_map": {
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 38,
+        "active_persons": 38,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 143,
+      "reid_map": {
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 38,
+        "active_persons": 38,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 144,
+      "reid_map": {
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "29": 31,
+        "28": 28,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 38,
+        "active_persons": 38,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 145,
+      "reid_map": {
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "28": 28,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 39,
+        "active_persons": 39,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 146,
+      "reid_map": {
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "28": 28,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 39,
+        "active_persons": 39,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 147,
+      "reid_map": {
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "28": 28,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 40,
+        "active_persons": 40,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 148,
+      "reid_map": {
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "28": 28,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 40,
+        "active_persons": 40,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 149,
+      "reid_map": {
+        "41": 41,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "28": 28,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 41,
+        "active_persons": 41,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 150,
+      "reid_map": {
+        "41": 41,
+        "40": 40,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 41,
+        "active_persons": 41,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 151,
+      "reid_map": {
+        "41": 41,
+        "40": 40,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 41,
+        "active_persons": 41,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 152,
+      "reid_map": {
+        "40": 40,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 41,
+        "active_persons": 41,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 153,
+      "reid_map": {
+        "42": 42,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 42,
+        "active_persons": 42,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 154,
+      "reid_map": {
+        "42": 42,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 42,
+        "active_persons": 42,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 155,
+      "reid_map": {
+        "42": 42,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 42,
+        "active_persons": 42,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 156,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 43,
+        "active_persons": 43,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 157,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 43,
+        "active_persons": 43,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 158,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 43,
+        "active_persons": 43,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 159,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 43,
+        "active_persons": 43,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 160,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "39": 39,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 43,
+        "active_persons": 43,
+        "historical_persons": 0,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 161,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 43,
+        "active_persons": 42,
+        "historical_persons": 1,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 162,
+      "reid_map": {
+        "46": 44,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 1,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 163,
+      "reid_map": {
+        "46": 44,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 1,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 164,
+      "reid_map": {
+        "46": 44,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 1,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 165,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 1,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 166,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 1,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 167,
+      "reid_map": {
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 42,
+        "historical_persons": 2,
+        "detected_reentries": 0
+      }
+    },
+    {
+      "frame": 168,
+      "reid_map": {
+        "47": 10,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 2,
+        "detected_reentries": 1
+      }
+    },
+    {
+      "frame": 169,
+      "reid_map": {
+        "46": 44,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 2,
+        "detected_reentries": 1
+      }
+    },
+    {
+      "frame": 170,
+      "reid_map": {
+        "46": 44,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 2,
+        "detected_reentries": 1
+      }
+    },
+    {
+      "frame": 171,
+      "reid_map": {
+        "48": 12,
+        "46": 44,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 2,
+        "detected_reentries": 2
+      }
+    },
+    {
+      "frame": 172,
+      "reid_map": {
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 2,
+        "detected_reentries": 2
+      }
+    },
+    {
+      "frame": 173,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "37": 37,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 3,
+        "detected_reentries": 3
+      }
+    },
+    {
+      "frame": 174,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 3,
+        "detected_reentries": 3
+      }
+    },
+    {
+      "frame": 175,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 3,
+        "detected_reentries": 3
+      }
+    },
+    {
+      "frame": 176,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "35": 35,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 3,
+        "detected_reentries": 3
+      }
+    },
+    {
+      "frame": 177,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 3,
+        "detected_reentries": 3
+      }
+    },
+    {
+      "frame": 178,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 3,
+        "detected_reentries": 3
+      }
+    },
+    {
+      "frame": 179,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 3,
+        "detected_reentries": 3
+      }
+    },
+    {
+      "frame": 180,
+      "reid_map": {
+        "50": 1,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 45,
+        "historical_persons": 3,
+        "detected_reentries": 4
+      }
+    },
+    {
+      "frame": 181,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 45,
+        "historical_persons": 3,
+        "detected_reentries": 4
+      }
+    },
+    {
+      "frame": 182,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 45,
+        "historical_persons": 3,
+        "detected_reentries": 4
+      }
+    },
+    {
+      "frame": 183,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 5,
+        "detected_reentries": 4
+      }
+    },
+    {
+      "frame": 184,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 5,
+        "detected_reentries": 4
+      }
+    },
+    {
+      "frame": 185,
+      "reid_map": {
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 5,
+        "detected_reentries": 4
+      }
+    },
+    {
+      "frame": 186,
+      "reid_map": {
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 5,
+        "detected_reentries": 5
+      }
+    },
+    {
+      "frame": 187,
+      "reid_map": {
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 42,
+        "historical_persons": 7,
+        "detected_reentries": 5
+      }
+    },
+    {
+      "frame": 188,
+      "reid_map": {
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 42,
+        "historical_persons": 7,
+        "detected_reentries": 5
+      }
+    },
+    {
+      "frame": 189,
+      "reid_map": {
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 42,
+        "historical_persons": 7,
+        "detected_reentries": 5
+      }
+    },
+    {
+      "frame": 190,
+      "reid_map": {
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 7,
+        "detected_reentries": 6
+      }
+    },
+    {
+      "frame": 191,
+      "reid_map": {
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 7,
+        "detected_reentries": 6
+      }
+    },
+    {
+      "frame": 192,
+      "reid_map": {
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 7,
+        "detected_reentries": 6
+      }
+    },
+    {
+      "frame": 193,
+      "reid_map": {
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 7,
+        "detected_reentries": 6
+      }
+    },
+    {
+      "frame": 194,
+      "reid_map": {
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 7,
+        "detected_reentries": 6
+      }
+    },
+    {
+      "frame": 195,
+      "reid_map": {
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 7,
+        "detected_reentries": 6
+      }
+    },
+    {
+      "frame": 196,
+      "reid_map": {
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "42": 42,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 43,
+        "historical_persons": 7,
+        "detected_reentries": 6
+      }
+    },
+    {
+      "frame": 197,
+      "reid_map": {
+        "53": 4,
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "40": 40,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 198,
+      "reid_map": {
+        "53": 4,
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "43": 43,
+        "33": 34,
+        "31": 29,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 199,
+      "reid_map": {
+        "52": 1,
+        "51": 2,
+        "49": 10,
+        "48": 12,
+        "33": 34,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 200,
+      "reid_map": {
+        "53": 4,
+        "52": 1,
+        "49": 10,
+        "48": 12,
+        "33": 34,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 201,
+      "reid_map": {
+        "53": 4,
+        "52": 1,
+        "49": 10,
+        "48": 12,
+        "7": 3,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 202,
+      "reid_map": {
+        "52": 1,
+        "49": 10,
+        "48": 12,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 203,
+      "reid_map": {
+        "52": 1,
+        "49": 10,
+        "48": 12,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 204,
+      "reid_map": {
+        "52": 1,
+        "49": 10,
+        "48": 12,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 205,
+      "reid_map": {
+        "52": 1,
+        "49": 10,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 44,
+        "historical_persons": 7,
+        "detected_reentries": 7
+      }
+    },
+    {
+      "frame": 206,
+      "reid_map": {
+        "54": 1,
+        "52": 1,
+        "49": 10,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 45,
+        "historical_persons": 7,
+        "detected_reentries": 8
+      }
+    },
+    {
+      "frame": 207,
+      "reid_map": {
+        "55": 14,
+        "52": 1,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 46,
+        "historical_persons": 7,
+        "detected_reentries": 9
+      }
+    },
+    {
+      "frame": 208,
+      "reid_map": {
+        "55": 14,
+        "52": 1,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 46,
+        "historical_persons": 7,
+        "detected_reentries": 9
+      }
+    },
+    {
+      "frame": 209,
+      "reid_map": {
+        "55": 14,
+        "54": 1,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 46,
+        "historical_persons": 7,
+        "detected_reentries": 9
+      }
+    },
+    {
+      "frame": 210,
+      "reid_map": {
+        "55": 14,
+        "54": 1,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 46,
+        "historical_persons": 7,
+        "detected_reentries": 9
+      }
+    },
+    {
+      "frame": 211,
+      "reid_map": {
+        "55": 14,
+        "54": 1,
+        "49": 10,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 45,
+        "historical_persons": 8,
+        "detected_reentries": 9
+      }
+    },
+    {
+      "frame": 212,
+      "reid_map": {
+        "56": 2,
+        "55": 14,
+        "54": 1,
+        "49": 10,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 46,
+        "historical_persons": 8,
+        "detected_reentries": 10
+      }
+    },
+    {
+      "frame": 213,
+      "reid_map": {
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 46,
+        "historical_persons": 8,
+        "detected_reentries": 10
+      }
+    },
+    {
+      "frame": 214,
+      "reid_map": {
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 47,
+        "historical_persons": 8,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 215,
+      "reid_map": {
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 44,
+        "active_persons": 47,
+        "historical_persons": 8,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 216,
+      "reid_map": {
+        "59": 45,
+        "58": 46,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "54": 1,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 48,
+        "historical_persons": 9,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 217,
+      "reid_map": {
+        "58": 46,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "54": 1,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 48,
+        "historical_persons": 9,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 218,
+      "reid_map": {
+        "58": 46,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "54": 1,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 48,
+        "historical_persons": 9,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 219,
+      "reid_map": {
+        "58": 46,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 48,
+        "historical_persons": 9,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 220,
+      "reid_map": {
+        "59": 45,
+        "58": 46,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 48,
+        "historical_persons": 9,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 221,
+      "reid_map": {
+        "59": 45,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 46,
+        "historical_persons": 11,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 222,
+      "reid_map": {
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 46,
+        "historical_persons": 11,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 223,
+      "reid_map": {
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 46,
+        "historical_persons": 11,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 224,
+      "reid_map": {
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 12,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 225,
+      "reid_map": {
+        "59": 45,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 12,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 226,
+      "reid_map": {
+        "59": 45,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 12,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 227,
+      "reid_map": {
+        "59": 45,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "49": 10,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 12,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 228,
+      "reid_map": {
+        "59": 45,
+        "57": 4,
+        "56": 2,
+        "55": 14,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 12,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 229,
+      "reid_map": {
+        "59": 45,
+        "56": 2,
+        "55": 14,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 12,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 230,
+      "reid_map": {
+        "59": 45,
+        "56": 2,
+        "55": 14,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 12,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 231,
+      "reid_map": {
+        "59": 45,
+        "56": 2,
+        "55": 14,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 12,
+        "detected_reentries": 11
+      }
+    },
+    {
+      "frame": 232,
+      "reid_map": {
+        "61": 1,
+        "59": 45,
+        "56": 2,
+        "55": 14,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 46,
+        "historical_persons": 12,
+        "detected_reentries": 12
+      }
+    },
+    {
+      "frame": 233,
+      "reid_map": {
+        "61": 1,
+        "59": 45,
+        "56": 2,
+        "55": 14,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 46,
+        "historical_persons": 12,
+        "detected_reentries": 12
+      }
+    },
+    {
+      "frame": 234,
+      "reid_map": {
+        "62": 6,
+        "61": 1,
+        "59": 45,
+        "56": 2,
+        "55": 14,
+        "33": 34,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 47,
+        "historical_persons": 12,
+        "detected_reentries": 13
+      }
+    },
+    {
+      "frame": 235,
+      "reid_map": {
+        "62": 6,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 47,
+        "historical_persons": 12,
+        "detected_reentries": 13
+      }
+    },
+    {
+      "frame": 236,
+      "reid_map": {
+        "62": 6,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 47,
+        "historical_persons": 12,
+        "detected_reentries": 13
+      }
+    },
+    {
+      "frame": 237,
+      "reid_map": {
+        "62": 6,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 14,
+        "detected_reentries": 13
+      }
+    },
+    {
+      "frame": 238,
+      "reid_map": {
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 14,
+        "detected_reentries": 13
+      }
+    },
+    {
+      "frame": 239,
+      "reid_map": {
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 45,
+        "historical_persons": 14,
+        "detected_reentries": 13
+      }
+    },
+    {
+      "frame": 240,
+      "reid_map": {
+        "65": 1,
+        "61": 1,
+        "56": 2,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 46,
+        "historical_persons": 14,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 241,
+      "reid_map": {
+        "61": 1,
+        "56": 2,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 46,
+        "historical_persons": 14,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 242,
+      "reid_map": {
+        "61": 1,
+        "56": 2,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 46,
+        "active_persons": 46,
+        "historical_persons": 14,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 243,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "56": 2,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 14,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 244,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "56": 2,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 15,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 245,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "56": 2,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 15,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 246,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "56": 2,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 15,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 247,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "56": 2,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 15,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 248,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 15,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 249,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 16,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 250,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 16,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 251,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 44,
+        "historical_persons": 17,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 252,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 44,
+        "historical_persons": 17,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 253,
+      "reid_map": {
+        "66": 47,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 44,
+        "historical_persons": 17,
+        "detected_reentries": 14
+      }
+    },
+    {
+      "frame": 254,
+      "reid_map": {
+        "68": 4,
+        "67": 6,
+        "66": 47,
+        "61": 1,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 18,
+        "detected_reentries": 16
+      }
+    },
+    {
+      "frame": 255,
+      "reid_map": {
+        "68": 4,
+        "67": 6,
+        "66": 47,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 44,
+        "historical_persons": 19,
+        "detected_reentries": 16
+      }
+    },
+    {
+      "frame": 256,
+      "reid_map": {
+        "69": 4,
+        "68": 4,
+        "67": 6,
+        "66": 47,
+        "55": 14,
+        "1": 9
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 19,
+        "detected_reentries": 17
+      }
+    },
+    {
+      "frame": 257,
+      "reid_map": {
+        "69": 4,
+        "68": 4,
+        "67": 6,
+        "55": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 19,
+        "detected_reentries": 17
+      }
+    },
+    {
+      "frame": 258,
+      "reid_map": {
+        "70": 6,
+        "69": 4,
+        "68": 4,
+        "55": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 19,
+        "detected_reentries": 18
+      }
+    },
+    {
+      "frame": 259,
+      "reid_map": {
+        "70": 6,
+        "69": 4,
+        "68": 4,
+        "67": 6,
+        "55": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 44,
+        "historical_persons": 21,
+        "detected_reentries": 18
+      }
+    },
+    {
+      "frame": 260,
+      "reid_map": {
+        "70": 6,
+        "69": 4,
+        "68": 4,
+        "67": 6,
+        "55": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 44,
+        "historical_persons": 21,
+        "detected_reentries": 18
+      }
+    },
+    {
+      "frame": 261,
+      "reid_map": {
+        "72": 20,
+        "70": 6,
+        "69": 4,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 21,
+        "detected_reentries": 19
+      }
+    },
+    {
+      "frame": 262,
+      "reid_map": {
+        "72": 20,
+        "71": 20,
+        "70": 6,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 21,
+        "detected_reentries": 20
+      }
+    },
+    {
+      "frame": 263,
+      "reid_map": {
+        "72": 20,
+        "71": 20,
+        "70": 6,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 21,
+        "detected_reentries": 20
+      }
+    },
+    {
+      "frame": 264,
+      "reid_map": {
+        "73": 13,
+        "72": 20,
+        "71": 20,
+        "70": 6,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 21,
+        "detected_reentries": 21
+      }
+    },
+    {
+      "frame": 265,
+      "reid_map": {
+        "74": 6,
+        "73": 13,
+        "72": 20,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 48,
+        "historical_persons": 21,
+        "detected_reentries": 22
+      }
+    },
+    {
+      "frame": 266,
+      "reid_map": {
+        "74": 6,
+        "73": 13,
+        "72": 20,
+        "71": 20,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 48,
+        "historical_persons": 21,
+        "detected_reentries": 22
+      }
+    },
+    {
+      "frame": 267,
+      "reid_map": {
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "72": 20,
+        "71": 20,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 21,
+        "detected_reentries": 23
+      }
+    },
+    {
+      "frame": 268,
+      "reid_map": {
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "72": 20,
+        "71": 20,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 23,
+        "detected_reentries": 23
+      }
+    },
+    {
+      "frame": 269,
+      "reid_map": {
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "71": 20,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 25,
+        "detected_reentries": 23
+      }
+    },
+    {
+      "frame": 270,
+      "reid_map": {
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "71": 20,
+        "68": 4,
+        "67": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 25,
+        "detected_reentries": 23
+      }
+    },
+    {
+      "frame": 271,
+      "reid_map": {
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 44,
+        "historical_persons": 26,
+        "detected_reentries": 23
+      }
+    },
+    {
+      "frame": 272,
+      "reid_map": {
+        "76": 20,
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 26,
+        "detected_reentries": 24
+      }
+    },
+    {
+      "frame": 273,
+      "reid_map": {
+        "78": 22,
+        "76": 20,
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 26,
+        "detected_reentries": 25
+      }
+    },
+    {
+      "frame": 274,
+      "reid_map": {
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 26,
+        "detected_reentries": 26
+      }
+    },
+    {
+      "frame": 275,
+      "reid_map": {
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 26,
+        "detected_reentries": 26
+      }
+    },
+    {
+      "frame": 276,
+      "reid_map": {
+        "77": 22,
+        "76": 20,
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 26,
+        "detected_reentries": 26
+      }
+    },
+    {
+      "frame": 277,
+      "reid_map": {
+        "80": 24,
+        "79": 15,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "75": 8,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 26,
+        "detected_reentries": 28
+      }
+    },
+    {
+      "frame": 278,
+      "reid_map": {
+        "81": 6,
+        "79": 15,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 26,
+        "detected_reentries": 29
+      }
+    },
+    {
+      "frame": 279,
+      "reid_map": {
+        "79": 15,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 27,
+        "detected_reentries": 29
+      }
+    },
+    {
+      "frame": 280,
+      "reid_map": {
+        "83": 21,
+        "82": 16,
+        "79": 15,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 27,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 281,
+      "reid_map": {
+        "82": 16,
+        "79": 15,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 27,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 282,
+      "reid_map": {
+        "82": 16,
+        "81": 6,
+        "79": 15,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 27,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 283,
+      "reid_map": {
+        "82": 16,
+        "79": 15,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 27,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 284,
+      "reid_map": {
+        "84": 6,
+        "82": 16,
+        "79": 15,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 52,
+        "historical_persons": 27,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 285,
+      "reid_map": {
+        "85": 5,
+        "84": 6,
+        "82": 16,
+        "81": 6,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 53,
+        "historical_persons": 27,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 286,
+      "reid_map": {
+        "85": 5,
+        "84": 6,
+        "82": 16,
+        "81": 6,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 53,
+        "historical_persons": 27,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 287,
+      "reid_map": {
+        "85": 5,
+        "84": 6,
+        "82": 16,
+        "81": 6,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 53,
+        "historical_persons": 27,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 288,
+      "reid_map": {
+        "85": 5,
+        "84": 6,
+        "82": 16,
+        "81": 6,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 53,
+        "historical_persons": 27,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 289,
+      "reid_map": {
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 29,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 290,
+      "reid_map": {
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "78": 22,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 29,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 291,
+      "reid_map": {
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 30,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 292,
+      "reid_map": {
+        "87": 10,
+        "86": 1,
+        "85": 5,
+        "84": 6,
+        "82": 16,
+        "81": 6,
+        "77": 22,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 52,
+        "historical_persons": 30,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 293,
+      "reid_map": {
+        "87": 10,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "77": 22,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 52,
+        "historical_persons": 30,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 294,
+      "reid_map": {
+        "87": 10,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "77": 22,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 52,
+        "historical_persons": 30,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 295,
+      "reid_map": {
+        "87": 10,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "77": 22,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 31,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 296,
+      "reid_map": {
+        "89": 20,
+        "87": 10,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 52,
+        "historical_persons": 31,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 297,
+      "reid_map": {
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 52,
+        "historical_persons": 31,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 298,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 52,
+        "historical_persons": 31,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 299,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 52,
+        "historical_persons": 31,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 300,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 32,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 301,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 51,
+        "historical_persons": 32,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 302,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 303,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 304,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 305,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 306,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 307,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 308,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 309,
+      "reid_map": {
+        "89": 20,
+        "86": 1,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 310,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 50,
+        "historical_persons": 33,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 311,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 34,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 312,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 34,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 313,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 34,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 314,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 34,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 315,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 34,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 316,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 34,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 317,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 34,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 318,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 34,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 319,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 48,
+        "historical_persons": 35,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 320,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 48,
+        "historical_persons": 35,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 321,
+      "reid_map": {
+        "90": 31,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 49,
+        "historical_persons": 35,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 322,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 48,
+        "historical_persons": 36,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 323,
+      "reid_map": {
+        "90": 31,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 48,
+        "historical_persons": 36,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 324,
+      "reid_map": {
+        "90": 31,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 37,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 325,
+      "reid_map": {
+        "90": 31,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 37,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 326,
+      "reid_map": {
+        "90": 31,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 37,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 327,
+      "reid_map": {
+        "90": 31,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 38,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 328,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 38,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 329,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 38,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 330,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 38,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 331,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 45,
+        "historical_persons": 39,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 332,
+      "reid_map": {
+        "91": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 39,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 333,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 39,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 334,
+      "reid_map": {
+        "92": 37,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 335,
+      "reid_map": {
+        "92": 37,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 336,
+      "reid_map": {
+        "92": 37,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 337,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 338,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 339,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 340,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 341,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 342,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 343,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 344,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 345,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 346,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 39,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 347,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 47,
+        "historical_persons": 40,
+        "detected_reentries": 38
+      }
+    },
+    {
+      "frame": 348,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 46,
+        "historical_persons": 41,
+        "detected_reentries": 38
+      }
+    },
+    {
+      "frame": 349,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 44,
+        "historical_persons": 43,
+        "detected_reentries": 38
+      }
+    },
+    {
+      "frame": 350,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 43,
+        "historical_persons": 44,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 351,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 43,
+        "historical_persons": 44,
+        "detected_reentries": 37
+      }
+    },
+    {
+      "frame": 352,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 41,
+        "historical_persons": 46,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 353,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 41,
+        "historical_persons": 46,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 354,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 41,
+        "historical_persons": 46,
+        "detected_reentries": 36
+      }
+    },
+    {
+      "frame": 355,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 40,
+        "historical_persons": 47,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 356,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 40,
+        "historical_persons": 47,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 357,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 40,
+        "historical_persons": 47,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 358,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 40,
+        "historical_persons": 47,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 359,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13,
+        "68": 4
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 360,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 361,
+      "reid_map": {
+        "93": 4,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 362,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 363,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 364,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 365,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 366,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 367,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 368,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 39,
+        "historical_persons": 48,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 369,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 38,
+        "historical_persons": 49,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 370,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 38,
+        "historical_persons": 49,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 371,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 37,
+        "historical_persons": 50,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 372,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 38,
+        "historical_persons": 50,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 373,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 38,
+        "historical_persons": 50,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 374,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 38,
+        "historical_persons": 50,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 375,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 38,
+        "historical_persons": 50,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 376,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 38,
+        "historical_persons": 50,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 377,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 38,
+        "historical_persons": 50,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 378,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 37,
+        "historical_persons": 51,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 379,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 36,
+        "historical_persons": 52,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 380,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 36,
+        "historical_persons": 52,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 381,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 36,
+        "historical_persons": 52,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 382,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 36,
+        "historical_persons": 52,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 383,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 36,
+        "historical_persons": 52,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 384,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6,
+        "73": 13
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 36,
+        "historical_persons": 52,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 385,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 54,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 386,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 54,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 387,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 54,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 388,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 55,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 389,
+      "reid_map": {
+        "95": 42,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 55,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 390,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 55,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 391,
+      "reid_map": {
+        "97": 6,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 56,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 392,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 56,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 393,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 56,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 394,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 56,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 395,
+      "reid_map": {
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 56,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 396,
+      "reid_map": {
+        "99": 34,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "76": 20,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 56,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 397,
+      "reid_map": {
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 56,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 398,
+      "reid_map": {
+        "100": 25,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 57,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 399,
+      "reid_map": {
+        "100": 25,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 57,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 400,
+      "reid_map": {
+        "100": 25,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 57,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 401,
+      "reid_map": {
+        "100": 25,
+        "98": 5,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 57,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 402,
+      "reid_map": {
+        "100": 25,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 57,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 403,
+      "reid_map": {
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 57,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 404,
+      "reid_map": {
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 57,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 405,
+      "reid_map": {
+        "98": 5,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 58,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 406,
+      "reid_map": {
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 58,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 407,
+      "reid_map": {
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 60,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 408,
+      "reid_map": {
+        "102": 22,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 60,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 409,
+      "reid_map": {
+        "102": 22,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 60,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 410,
+      "reid_map": {
+        "103": 42,
+        "98": 5,
+        "85": 5,
+        "82": 16,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 60,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 411,
+      "reid_map": {
+        "104": 12,
+        "103": 42,
+        "101": 6,
+        "98": 5,
+        "85": 5,
+        "82": 16,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 61,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 412,
+      "reid_map": {
+        "104": 12,
+        "103": 42,
+        "101": 6,
+        "98": 5,
+        "85": 5,
+        "82": 16,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 62,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 413,
+      "reid_map": {
+        "104": 12,
+        "103": 42,
+        "101": 6,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 62,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 414,
+      "reid_map": {
+        "104": 12,
+        "103": 42,
+        "101": 6,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6,
+        "74": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 62,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 415,
+      "reid_map": {
+        "104": 12,
+        "103": 42,
+        "101": 6,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 33,
+        "historical_persons": 63,
+        "detected_reentries": 33
+      }
+    },
+    {
+      "frame": 416,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "101": 6,
+        "98": 5,
+        "85": 5,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 63,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 417,
+      "reid_map": {
+        "106": 2,
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 63,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 418,
+      "reid_map": {
+        "106": 2,
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 35,
+        "historical_persons": 63,
+        "detected_reentries": 35
+      }
+    },
+    {
+      "frame": 419,
+      "reid_map": {
+        "106": 2,
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 64,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 420,
+      "reid_map": {
+        "106": 2,
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "98": 5,
+        "89": 20,
+        "85": 5,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 34,
+        "historical_persons": 64,
+        "detected_reentries": 34
+      }
+    },
+    {
+      "frame": 421,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "98": 5,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 66,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 422,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "98": 5,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 66,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 423,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "98": 5,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 66,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 424,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "98": 5,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 66,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 425,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 66,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 426,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 66,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 427,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 66,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 428,
+      "reid_map": {
+        "105": 2,
+        "104": 12,
+        "103": 42,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 68,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 429,
+      "reid_map": {
+        "107": 14,
+        "105": 2,
+        "103": 42,
+        "89": 20,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 68,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 430,
+      "reid_map": {
+        "107": 14,
+        "105": 2,
+        "103": 42,
+        "89": 20,
+        "82": 16,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 68,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 431,
+      "reid_map": {
+        "107": 14,
+        "105": 2,
+        "103": 42,
+        "89": 20,
+        "81": 6
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 69,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 432,
+      "reid_map": {
+        "107": 14,
+        "105": 2,
+        "103": 42,
+        "89": 20
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 69,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 433,
+      "reid_map": {
+        "107": 14,
+        "105": 2,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 69,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 434,
+      "reid_map": {
+        "108": 5,
+        "107": 14,
+        "105": 2,
+        "89": 20,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 69,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 435,
+      "reid_map": {
+        "108": 5,
+        "107": 14,
+        "105": 2,
+        "89": 20,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 70,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 436,
+      "reid_map": {
+        "108": 5,
+        "107": 14,
+        "105": 2,
+        "89": 20,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 70,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 437,
+      "reid_map": {
+        "108": 5,
+        "107": 14,
+        "105": 2,
+        "89": 20,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 70,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 438,
+      "reid_map": {
+        "109": 24,
+        "108": 5,
+        "107": 14,
+        "105": 2,
+        "89": 20
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 70,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 439,
+      "reid_map": {
+        "108": 5,
+        "107": 14,
+        "105": 2,
+        "89": 20,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 70,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 440,
+      "reid_map": {
+        "110": 5,
+        "108": 5,
+        "107": 14,
+        "89": 20,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 70,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 441,
+      "reid_map": {
+        "110": 5,
+        "108": 5,
+        "107": 14,
+        "89": 20,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 71,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 442,
+      "reid_map": {
+        "110": 5,
+        "108": 5,
+        "107": 14,
+        "89": 20,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 71,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 443,
+      "reid_map": {
+        "110": 5,
+        "108": 5,
+        "107": 14,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 72,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 444,
+      "reid_map": {
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14,
+        "82": 16
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 72,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 445,
+      "reid_map": {
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14,
+        "89": 20
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 72,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 446,
+      "reid_map": {
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14,
+        "89": 20
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 73,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 447,
+      "reid_map": {
+        "112": 12,
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 74,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 448,
+      "reid_map": {
+        "112": 12,
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 74,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 449,
+      "reid_map": {
+        "112": 12,
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 74,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 450,
+      "reid_map": {
+        "112": 12,
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 74,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 451,
+      "reid_map": {
+        "112": 12,
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 30,
+        "historical_persons": 74,
+        "detected_reentries": 30
+      }
+    },
+    {
+      "frame": 452,
+      "reid_map": {
+        "113": 34,
+        "112": 12,
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 74,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 453,
+      "reid_map": {
+        "113": 34,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 74,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 454,
+      "reid_map": {
+        "113": 34,
+        "111": 3,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 74,
+        "detected_reentries": 31
+      }
+    },
+    {
+      "frame": 455,
+      "reid_map": {
+        "114": 34,
+        "113": 34,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 74,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 456,
+      "reid_map": {
+        "114": 34,
+        "113": 34,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 74,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 457,
+      "reid_map": {
+        "114": 34,
+        "113": 34,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 74,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 458,
+      "reid_map": {
+        "114": 34,
+        "113": 34,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 74,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 459,
+      "reid_map": {
+        "113": 34,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 32,
+        "historical_persons": 74,
+        "detected_reentries": 32
+      }
+    },
+    {
+      "frame": 460,
+      "reid_map": {
+        "113": 34,
+        "110": 5,
+        "108": 5,
+        "107": 14
+      },
+      "stats": {
+        "total_unique_persons": 47,
+        "active_persons": 31,
+        "historical_persons": 75,
+        "detected_reentries": 31
+      }
+    }
+  ]
+}

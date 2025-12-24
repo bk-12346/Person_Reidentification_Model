@@ -14,12 +14,14 @@ def install_dependencies():
     print("=" * 60)
     
     dependencies = [
+        "numpy",
         "opencv-python",
         "torch",
         "torchvision",
-        "numpy",
+        "facenet-pytorch",
         "pillow",
         "scipy",
+        "seaborn",
         "scikit-learn",
         "matplotlib",
         "tqdm",
@@ -131,6 +133,7 @@ def main():
         print("1. Download 2 videos from Pexels to data/videos/")
         print("   - Video 1: For initial tracking/training")
         print("   - Video 2: For testing re-identification")
+        print("\n2. Run detection.py for starting detection.")
         
     except Exception as e:
         print(f"\nError during setup: {e}")

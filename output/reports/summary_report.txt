@@ -1,0 +1,69 @@
+======================================================================
+PERSON RE-IDENTIFICATION SYSTEM - SUMMARY REPORT
+======================================================================
+
+Generated: 2025-12-24 12:45:00
+
+SYSTEM OVERVIEW
+----------------------------------------------------------------------
+Total Videos Processed: 2
+Videos: video1.mp4, video2.mp4
+
+PER-VIDEO ANALYSIS
+----------------------------------------------------------------------
+
+video1:
+  Detection & Tracking:
+    - Total frames: 460
+    - Unique persons tracked: 106
+    - Total detections: 3637
+  Face Recognition:
+    - Persons with faces: 49
+    - Total face samples: 952
+  Appearance Re-ID:
+    - Persons with features: 106
+    - Total samples: 3637
+  Temporal Re-identification:
+    - Unique persons: 47
+    - Re-entry events: 31
+
+video2:
+  Detection & Tracking:
+    - Total frames: 764
+    - Unique persons tracked: 243
+    - Total detections: 7887
+  Face Recognition:
+    - Persons with faces: 80
+    - Total face samples: 1278
+  Appearance Re-ID:
+    - Persons with features: 349
+    - Total samples: 11524
+  Temporal Re-identification:
+    - Unique persons: 44
+    - Re-entry events: 67
+
+
+CROSS-VIDEO ANALYSIS
+----------------------------------------------------------------------
+Videos compared: 2
+Persons per video:
+  - video1: 106 persons
+  - video2: 243 persons
+
+
+TEMPORAL RE-IDENTIFICATION SUMMARY
+----------------------------------------------------------------------
+Total re-entry events detected: 98
+Videos with re-entries: 2
+
+
+SYSTEM CAPABILITIES DEMONSTRATED
+----------------------------------------------------------------------
+Person detection and tracking within single camera feed
+Face recognition when faces are visible
+Appearance-based re-identification (works without faces)
+Temporal re-identification (people leaving and returning)
+Cross-video person matching
+Multi-modal feature fusion (face + appearance)
+
+======================================================================
