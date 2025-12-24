@@ -6,14 +6,14 @@ A comprehensive computer vision system for recognizing and re-identifying people
 Table of Contents
 -----------------
 
--   [Overview](https://claude.ai/chat/1eaba76a-8d10-450c-b598-da1501fe8ade#overview)
--   [System Capabilities](https://claude.ai/chat/1eaba76a-8d10-450c-b598-da1501fe8ade#system-capabilities)
--   [Architecture](https://claude.ai/chat/1eaba76a-8d10-450c-b598-da1501fe8ade#architecture)
--   [Installation](https://claude.ai/chat/1eaba76a-8d10-450c-b598-da1501fe8ade#installation)
--   [Usage](https://claude.ai/chat/1eaba76a-8d10-450c-b598-da1501fe8ade#usage)
--   [Step-by-Step Implementation](https://claude.ai/chat/1eaba76a-8d10-450c-b598-da1501fe8ade#phase-by-phase-implementation)
--   [Results and Deliverables](https://claude.ai/chat/1eaba76a-8d10-450c-b598-da1501fe8ade#results-and-deliverables)
--   [Technical Details](https://claude.ai/chat/1eaba76a-8d10-450c-b598-da1501fe8ade#technical-details)
+-   Overview
+-   System Capabilities
+-   Architecture
+-   Installation
+-   Usage
+-   Step-by-Step Implementation
+-   Results and Deliverables
+-   Technical Details
 
 * * * * *
 
@@ -614,3 +614,4 @@ Contact
 -------
 
 For questions about implementation or results, please refer to the generated reports in `output/reports/`.
+
